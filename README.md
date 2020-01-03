@@ -20,8 +20,8 @@ Principalmente los siguientes aspectos:
 1. No hay tiempo establecido para entregar la prueba. Aun así, recomendamos emplear un máximo de **3-4 días** y enviar todo lo que puedas.
 4. Se recomienda añadir un `archivo.md` en la solución aportada para explicar mediante texto lo que se considere oportuno.
 5. **Al finalizar**, existen 2 opciones para entregar su proyecto:
-    * Subir la prueba al repositorio personal y enviar la url del repositorio a la siguiente dirección de correo electrónico [jfvalencia@e-volution.co](mailto:jfvalencia@e-volution.co).
-    * Crear un archivo comprimido ( _.zip_ ) de su proyecto y enviar a la siguiente dirección de correo electrónico [jfvalencia@e-volution.co](mailto:jfvalencia@e-volution.co).
+    * Subir la prueba al repositorio personal y enviar la url del repositorio a la siguiente dirección de correo electrónico [administracion@e-volution.co](mailto:administracion@e-volution.co).
+    * Crear un archivo comprimido ( _.zip_ ) de su proyecto y enviar a la siguiente dirección de correo electrónico [administracion@e-volution.co](mailto:administracion@e-volution.co).
 
 ## Descripción
 Desarrollar una aplicación que permitirá a los usuarios crear y gestionar varias tareas.
